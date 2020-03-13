@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Clock = (props) => {
+const ClockFunction = (props) => {
   return (
     <div>
       <h1>Jay Chou</h1>
@@ -9,4 +9,4 @@ const Clock = (props) => {
   );
 };
 
-export default Clock;
+export default ClockFunction;
